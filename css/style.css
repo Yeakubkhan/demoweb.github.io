@@ -60,8 +60,19 @@
     width: 40px !important;
 }
 
+.process-custom:hover {
+    box-shadow: 1px 1px 30px -6px gray;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
 /* pupolar image */
 
 .pupolar-img img {
     width: 100px !important;
+}
+
+.pupolar-custom:hover {
+    box-shadow: 1px 1px 30px -4px gray;
+    border-radius: 5px;
 }
